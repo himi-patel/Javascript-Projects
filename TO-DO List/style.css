@@ -113,3 +113,12 @@ ul li.checked::before
 {
     background-image: url(images/checked.png);
 }
+
+ul li span
+{
+position: absolute;
+left: 90%;
+color: #555;
+font-size: 20px;
+
+}
